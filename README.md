@@ -101,7 +101,3 @@ streamlit run app/ui.py
 MIT License © 2025 Malik  M Shahmeer Rashid
 
 ---
-
-This README is **professional, detailed, and beginner-friendly**, so anyone can clone your repo and run the bot.
-
-If you want, I can also **suggest GitHub topics/tags and a short repo description** so it’s easier to discover. Do you want me to do that?
