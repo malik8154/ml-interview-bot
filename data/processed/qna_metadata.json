@@ -1,0 +1,3126 @@
+[
+  {
+    "question": "Note",
+    "answer": "1. Please Explain Machine Learning, Artificial Intelligence, And Deep Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "Machine learning is defined as a subset of Artificial Intelligence, and it contains the techniques"
+  },
+  {
+    "question": "Note",
+    "answer": "which enable computers to sort things out from the data and deliver Artificial Intelligence"
+  },
+  {
+    "question": "Note",
+    "answer": "applications. Artificial Intelligence (AI) is a branch of computer science that is mainly focused on"
+  },
+  {
+    "question": "Note",
+    "answer": "building smart machines that can perform certain tasks that mainly require human intelligence. It"
+  },
+  {
+    "question": "Note",
+    "answer": "is the venture to replicate or simulate human intelligence in machines."
+  },
+  {
+    "question": "Note",
+    "answer": "Deep learning can be defined as a class of machine learning algorithms in Artificial Intelligence"
+  },
+  {
+    "question": "Note",
+    "answer": "that mainly uses multiple layers to cumulatively extract higher-level features from the given raw"
+  },
+  {
+    "question": "Note",
+    "answer": "input."
+  },
+  {
+    "question": "Note",
+    "answer": "2. How Difficult Is Machine Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "Machine Learning is huge and comprises a lot of things. Therefore, it will take more than six"
+  },
+  {
+    "question": "Note",
+    "answer": "months to learn Machine Learning if you spend at least 6-7 hours per day. If you have good"
+  },
+  {
+    "question": "Note",
+    "answer": "hands-on mathematical and analytical skills, then six months will be sufficient for you."
+  },
+  {
+    "question": "Note",
+    "answer": "3. Can You Explain Kernel Trick In An SVM Algorithm?"
+  },
+  {
+    "question": "Note",
+    "answer": "A Kernel Trick is a method where the Non-Linear data is projected onto a bigger dimension"
+  },
+  {
+    "question": "Note",
+    "answer": "space in order to make it easy to classify the data where it can be linearly divided by a plane."
+  },
+  {
+    "question": "Note",
+    "answer": "4. Can You List Some Of The Popular Cross-Validation Techniques?"
+  },
+  {
+    "question": "Note",
+    "answer": "1. Holdout Method: This kind of technique works by removing the part of the training data"
+  },
+  {
+    "question": "Note",
+    "answer": "set and sending the same to the model that was trained on the remaining data set to get"
+  },
+  {
+    "question": "Note",
+    "answer": "the required predictions."
+  },
+  {
+    "question": "Note",
+    "answer": "2. K-Fold Cross-Validation: Here, the data is divided into k subsets so that every time, one"
+  },
+  {
+    "question": "Note",
+    "answer": "among the k subsets can be used as a validation set, and the other k-1 subsets are used"
+  },
+  {
+    "question": "Note",
+    "answer": "as the training set"
+  },
+  {
+    "question": "Note",
+    "answer": "3. Stratified K-Fold Cross-Validation: It works on imbalanced data."
+  },
+  {
+    "question": "Note",
+    "answer": "4. Leave-P-Out Cross-Validation: Here, we leave p data points out of the training data out"
+  },
+  {
+    "question": "Note",
+    "answer": "of the n data points, then we use the n-p samples to train the model and p points for the"
+  },
+  {
+    "question": "Note",
+    "answer": "validation set."
+  },
+  {
+    "question": "Note",
+    "answer": "5. Differences Between The Bagging And Boosting Algorithms?"
+  },
+  {
+    "question": "Note",
+    "answer": "Bagging Boosting"
+  },
+  {
+    "question": "Note",
+    "answer": "It is a method that merges the same type of"
+  },
+  {
+    "question": "Note",
+    "answer": "predictions."
+  },
+  {
+    "question": "Note",
+    "answer": "It is a method that merges the different types"
+  },
+  {
+    "question": "Note",
+    "answer": "of predictions."
+  },
+  {
+    "question": "Note",
+    "answer": "It decreases the variance, not the bias It decreases the bias, not the variance."
+  },
+  {
+    "question": "Note",
+    "answer": "Each and every model receives equal weight Models are weighed based on performance."
+  },
+  {
+    "question": "Note",
+    "answer": "6. What Are Kernels In SVM? Can You List Some Popular Kernels Used In SVM?"
+  },
+  {
+    "question": "Note",
+    "answer": "The kernel is basically used to set mathematical functions that are used in the Support Vector"
+  },
+  {
+    "question": "Note",
+    "answer": "Machine by providing the window to manipulate the data. Kernel Function is used to transform"
+  },
+  {
+    "question": "Note",
+    "answer": "the training set of data so that a non-linear decision surface will be transformed to a linear"
+  },
+  {
+    "question": "Note",
+    "answer": "equation in a bigger number of dimension spaces."
+  },
+  {
+    "question": "Note",
+    "answer": "Some of the popular kernels used in SVM are:"
+  },
+  {
+    "question": "Note",
+    "answer": "1. Polynomial kernel"
+  },
+  {
+    "question": "Note",
+    "answer": "2. Gaussian kernel"
+  },
+  {
+    "question": "Note",
+    "answer": "3. Gaussian radial basis function (RBF)"
+  },
+  {
+    "question": "Note",
+    "answer": "4. Laplace RBF kernel"
+  },
+  {
+    "question": "Note",
+    "answer": "5. Hyperbolic tangent kernel"
+  },
+  {
+    "question": "Note",
+    "answer": "6. Sigmoid kernel"
+  },
+  {
+    "question": "Note",
+    "answer": "7. Bessel function of the first kind Kernel"
+  },
+  {
+    "question": "Note",
+    "answer": "8. ANOVA radial basis kernel"
+  },
+  {
+    "question": "Note",
+    "answer": "7. Can You Explain The OOB Error?"
+  },
+  {
+    "question": "Note",
+    "answer": "An out-of-bag error called OBB error, also known as an out-of-bag estimate, is a technique to"
+  },
+  {
+    "question": "Note",
+    "answer": "measure the prediction error of random forests, boosted decision trees. Bagging mainly uses"
+  },
+  {
+    "question": "Note",
+    "answer": "subsampling with replacement to create the training samples for the model to learn from them."
+  },
+  {
+    "question": "Note",
+    "answer": "8. Can You Differentiate Between K-Means And KNN Algorithms?"
+  },
+  {
+    "question": "Note",
+    "answer": "K-Means KNN algorithms"
+  },
+  {
+    "question": "Note",
+    "answer": "It is unsupervised machine learning. It is supervised machine learning."
+  },
+  {
+    "question": "Note",
+    "answer": "It is a clustering machine learning algorithm. It is a classification or regression machine"
+  },
+  {
+    "question": "Note",
+    "answer": "learning algorithm."
+  },
+  {
+    "question": "Note",
+    "answer": "Its performance is slow. It performs much better."
+  },
+  {
+    "question": "Note",
+    "answer": "It is an eager learner. It is a lazy learner."
+  },
+  {
+    "question": "Note",
+    "answer": "9. Explain The Term Variance Inflation Factor Mean?"
+  },
+  {
+    "question": "Note",
+    "answer": "Variance inflation factor known as VIF is a measure of the amount of multicollinearity in the"
+  },
+  {
+    "question": "Note",
+    "answer": "given set of multiple regression variables. The ratio here is calculated for each of the"
+  },
+  {
+    "question": "Note",
+    "answer": "independent variables. A high VIF means that the associated independent variable is mostly"
+  },
+  {
+    "question": "Note",
+    "answer": "collinear with the other variables in the model."
+  },
+  {
+    "question": "Note",
+    "answer": "10. Explain SVM (Support Vector Machines) In Machine Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "Support Vector Machine, known as SVM, is one of the most commonly used Supervised"
+  },
+  {
+    "question": "Note",
+    "answer": "Learning algorithms that is mainly used for Classification as well as Regression problems. It is"
+  },
+  {
+    "question": "Note",
+    "answer": "primarily used for Classification problems in Machine Learning. The main aim of the SVM"
+  },
+  {
+    "question": "Note",
+    "answer": "algorithm is to create the best decision boundary, which segregates n-dimensional space into"
+  },
+  {
+    "question": "Note",
+    "answer": "classes so that one can easily put the new obtained data point in the correct category in the"
+  },
+  {
+    "question": "Note",
+    "answer": "future."
+  },
+  {
+    "question": "Note",
+    "answer": "11. Differentiate Between Supervised And Unsupervised Machine Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "Supervised Model Unsupervised Model"
+  },
+  {
+    "question": "Note",
+    "answer": "Here, the algorithm learns on a labeled"
+  },
+  {
+    "question": "Note",
+    "answer": "dataset,"
+  },
+  {
+    "question": "Note",
+    "answer": "Here, it provides unlabeled data."
+  },
+  {
+    "question": "Note",
+    "answer": "Here, the models need to find the mapping"
+  },
+  {
+    "question": "Note",
+    "answer": "function that is used to map the input variable"
+  },
+  {
+    "question": "Note",
+    "answer": "(X) with the output variable (Y)."
+  },
+  {
+    "question": "Note",
+    "answer": "The main aim of unsupervised learning is to"
+  },
+  {
+    "question": "Note",
+    "answer": "find the structure and patterns from the given"
+  },
+  {
+    "question": "Note",
+    "answer": "input data."
+  },
+  {
+    "question": "Note",
+    "answer": "12. Explain The Terms Precision And Recall?"
+  },
+  {
+    "question": "Note",
+    "answer": "Precision, also known as a positive predictive value, is defined as the fraction of relevant"
+  },
+  {
+    "question": "Note",
+    "answer": "instances among the retrieved instances."
+  },
+  {
+    "question": "Note",
+    "answer": "Precision = TP/TP+FP"
+  },
+  {
+    "question": "Note",
+    "answer": "Where TP is true positive"
+  },
+  {
+    "question": "Note",
+    "answer": "FP id False Positive"
+  },
+  {
+    "question": "Note",
+    "answer": "Recall, also known as sensitivity, is defined as the fraction of relevant instances that were"
+  },
+  {
+    "question": "Note",
+    "answer": "Retrieved."
+  },
+  {
+    "question": "Note",
+    "answer": "Recall = TP/TP+FP."
+  },
+  {
+    "question": "Note",
+    "answer": "Where TP is true positive"
+  },
+  {
+    "question": "Note",
+    "answer": "FP is False positive."
+  },
+  {
+    "question": "Note",
+    "answer": "13. Differentiate Between L1 And L2 Regularization?"
+  },
+  {
+    "question": "Note",
+    "answer": "L1 Regularization L2 Regularization"
+  },
+  {
+    "question": "Note",
+    "answer": "A regression model that makes use of the L1"
+  },
+  {
+    "question": "Note",
+    "answer": "regularization process is called Lasso"
+  },
+  {
+    "question": "Note",
+    "answer": "Regression."
+  },
+  {
+    "question": "Note",
+    "answer": "A regression model that makes use of the L1"
+  },
+  {
+    "question": "Note",
+    "answer": "regularization process is called Ridge"
+  },
+  {
+    "question": "Note",
+    "answer": "Regression."
+  },
+  {
+    "question": "Note",
+    "answer": "Lasso Regression adds the absolute value of"
+  },
+  {
+    "question": "Note",
+    "answer": "the magnitude of coefficient as a penalty term"
+  },
+  {
+    "question": "Note",
+    "answer": "to the loss function."
+  },
+  {
+    "question": "Note",
+    "answer": "Ridge regression adds the squared"
+  },
+  {
+    "question": "Note",
+    "answer": "magnitude of coefficient as a penalty term to"
+  },
+  {
+    "question": "Note",
+    "answer": "the loss function."
+  },
+  {
+    "question": "Note",
+    "answer": "It tries to estimate the median of the data. It tries to estimate the mean of the data."
+  },
+  {
+    "question": "Note",
+    "answer": "14. Explain Fourier Transform?"
+  },
+  {
+    "question": "Note",
+    "answer": "The Fourier transform is a way to split something up into a bunch of sine waves. In terms of"
+  },
+  {
+    "question": "Note",
+    "answer": "mathematics, The Fourier Transform is a process that can transform a signal into its respective"
+  },
+  {
+    "question": "Note",
+    "answer": "constituent components and frequencies. Fourier transform is used not only in signal, radio,"
+  },
+  {
+    "question": "Note",
+    "answer": "acoustic, etc."
+  },
+  {
+    "question": "Note",
+    "answer": "15. What Is The F1 Score? How To Use It?"
+  },
+  {
+    "question": "Note",
+    "answer": "The F1-score combines both the precision and recall of a classifier into one single metric by"
+  },
+  {
+    "question": "Note",
+    "answer": "taking the harmonic mean. It is used to compare the performances of two classifiers. For"
+  },
+  {
+    "question": "Note",
+    "answer": "example, classifier X has a higher recall, and classifier Y has higher precision. Now the"
+  },
+  {
+    "question": "Note",
+    "answer": "F1-scores calculated for both the classifiers will be used to predict which one produces the"
+  },
+  {
+    "question": "Note",
+    "answer": "better results."
+  },
+  {
+    "question": "Note",
+    "answer": "The F1 score can be calculated as"
+  },
+  {
+    "question": "Note",
+    "answer": "2(P*R)/(P+R)"
+  },
+  {
+    "question": "Note",
+    "answer": "Where P is the precision."
+  },
+  {
+    "question": "Note",
+    "answer": "R is the Recall of the classification model."
+  },
+  {
+    "question": "Note",
+    "answer": "Machine Learning Interview Questions And Answers"
+  },
+  {
+    "question": "Note",
+    "answer": "16. Differentiate Between Type I And Type II Error?"
+  },
+  {
+    "question": "Note",
+    "answer": "Type I Error Type II Error"
+  },
+  {
+    "question": "Note",
+    "answer": "It is equivalent to a False positive. It is equivalent to a False negative"
+  },
+  {
+    "question": "Note",
+    "answer": "It refers to non-acceptance of hypothesis It refers to the acceptance of the hypothesis"
+  },
+  {
+    "question": "Note",
+    "answer": "There can be a rejection even with an"
+  },
+  {
+    "question": "Note",
+    "answer": "authorized match."
+  },
+  {
+    "question": "Note",
+    "answer": "There can be an acceptance even with an"
+  },
+  {
+    "question": "Note",
+    "answer": "unauthorized match."
+  },
+  {
+    "question": "Note",
+    "answer": "17. Can You Explain How A ROC Curve Works?"
+  },
+  {
+    "question": "Note",
+    "answer": "The ROC curve is represented graphically by plotting the true positive rate (TPR) against the"
+  },
+  {
+    "question": "Note",
+    "answer": "FPR (False Positive rates). Where"
+  },
+  {
+    "question": "Note",
+    "answer": "1. The true positive rate can be defined as the proportion of observations that are predicted"
+  },
+  {
+    "question": "Note",
+    "answer": "to be positive out of all the given positive observations (TP/(TP + FN))"
+  },
+  {
+    "question": "Note",
+    "answer": "2. The false-positive rate is defined as the proportion of observations that are predicted"
+  },
+  {
+    "question": "Note",
+    "answer": "wrongly to be positive out of all the given negative observations."
+  },
+  {
+    "question": "Note",
+    "answer": "(FP/(TN + FP))"
+  },
+  {
+    "question": "Note",
+    "answer": "18. Differentiate Between Deep Learning And Machine Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "Deep Learning Machine Learning"
+  },
+  {
+    "question": "Note",
+    "answer": "It is a subset of Machine Learning It is a superset of Deep Learning."
+  },
+  {
+    "question": "Note",
+    "answer": "It solves complex issues. It is used to learn new things."
+  },
+  {
+    "question": "Note",
+    "answer": "It is an evolution to Machine Learning. It is an evolution of AI."
+  },
+  {
+    "question": "Note",
+    "answer": "Here, algorithms are largely self-depicted on"
+  },
+  {
+    "question": "Note",
+    "answer": "the data analysis"
+  },
+  {
+    "question": "Note",
+    "answer": "Algorithms are detected by the data analysts."
+  },
+  {
+    "question": "Note",
+    "answer": "19. Can You Name The Different Machine Learning Algorithms?"
+  },
+  {
+    "question": "Note",
+    "answer": "Different machine learning algorithms are listed below:"
+  },
+  {
+    "question": "Note",
+    "answer": "1. Decision trees,"
+  },
+  {
+    "question": "Note",
+    "answer": "2. Naive Bayes,"
+  },
+  {
+    "question": "Note",
+    "answer": "3. Random forest"
+  },
+  {
+    "question": "Note",
+    "answer": "4. Support vector machine"
+  },
+  {
+    "question": "Note",
+    "answer": "5. K-nearest neighbor,"
+  },
+  {
+    "question": "Note",
+    "answer": "6. K-means clustering,"
+  },
+  {
+    "question": "Note",
+    "answer": "7. Gaussian mixture model,"
+  },
+  {
+    "question": "Note",
+    "answer": "8. Hidden Markov model etc."
+  },
+  {
+    "question": "Note",
+    "answer": "20. What Is AI?"
+  },
+  {
+    "question": "Note",
+    "answer": "AI (Artificial intelligence) refers to the simulation of human intelligence in machines that are"
+  },
+  {
+    "question": "Note",
+    "answer": "programmed to reflect like humans and imitate their actions."
+  },
+  {
+    "question": "Note",
+    "answer": "Examples: Face Detection and Recognition, Google Maps, and"
+  },
+  {
+    "question": "Note",
+    "answer": "Ride-Hailing Applications, E-Payments."
+  },
+  {
+    "question": "Note",
+    "answer": "21. How To Select Important Variables While Working On A Data Set?"
+  },
+  {
+    "question": "Note",
+    "answer": "1. You have to remove the correlated variables before selecting important variables."
+  },
+  {
+    "question": "Note",
+    "answer": "2. Make use of linear regression and select the variables based on their p values."
+  },
+  {
+    "question": "Note",
+    "answer": "3. Use Forward Selection, Stepwise Selection, and Backward Selection."
+  },
+  {
+    "question": "Note",
+    "answer": "4. Use Random Forest, Xgboost, and plot variable importance chart"
+  },
+  {
+    "question": "Note",
+    "answer": "5. Use the Lasso Regression"
+  },
+  {
+    "question": "Note",
+    "answer": "6. You have to select top n features by measuring the information gain for the available set"
+  },
+  {
+    "question": "Note",
+    "answer": "of features."
+  },
+  {
+    "question": "Note",
+    "answer": "22. Differentiate Between Causality And Correlation?"
+  },
+  {
+    "question": "Note",
+    "answer": "The Causality explicitly applies to the cases where action A causes the outcome of action B."
+  },
+  {
+    "question": "Note",
+    "answer": "Correlation can simply be defined as a relationship. Where the actions of A can relate to the"
+  },
+  {
+    "question": "Note",
+    "answer": "actions of B, but here it is not necessary for one event to cause the other event to happen."
+  },
+  {
+    "question": "Note",
+    "answer": "23. What Is Overfitting?"
+  },
+  {
+    "question": "Note",
+    "answer": "Overfitting is a type of modeling error that results in the failure to predict or guess the future"
+  },
+  {
+    "question": "Note",
+    "answer": "observations effectively or fit additional data in the model that already exists."
+  },
+  {
+    "question": "Note",
+    "answer": "24. Explain The Terms Standard Deviation And Variance?"
+  },
+  {
+    "question": "Note",
+    "answer": "A standard deviation is defined as the number that specifies how spread out the values are. A"
+  },
+  {
+    "question": "Note",
+    "answer": "low standard deviation represents that most of the numbers are close to the mean value. The"
+  },
+  {
+    "question": "Note",
+    "answer": "higher standard deviation means that the values are spread out over, the wider range."
+  },
+  {
+    "question": "Note",
+    "answer": "Variance in Machine Learning is a type of error that occurs due to the model\u2019s sensitivity to"
+  },
+  {
+    "question": "Note",
+    "answer": "small fluctuations in the given training set."
+  },
+  {
+    "question": "Note",
+    "answer": "25. Explain Multilayer Perceptron And Boltzmann Machine?"
+  },
+  {
+    "question": "Note",
+    "answer": "A Multilayer Perceptron (MLP) is defined as a class of artificial neural networks that can"
+  },
+  {
+    "question": "Note",
+    "answer": "generate a set of outputs from the set of given inputs. An MLP consists of several layers of input"
+  },
+  {
+    "question": "Note",
+    "answer": "nodes that are connected as a directed graph between input and output layers."
+  },
+  {
+    "question": "Note",
+    "answer": "The main purpose of the Boltzmann Machine is to optimize the solution to a given problem. It is"
+  },
+  {
+    "question": "Note",
+    "answer": "mainly used to optimize the weights and quantity related to that specified problem."
+  },
+  {
+    "question": "Note",
+    "answer": "Machine Learning Interview Questions And Answers"
+  },
+  {
+    "question": "Note",
+    "answer": "26. Explain The Term Bias?"
+  },
+  {
+    "question": "Note",
+    "answer": "Data bias in machine learning is defined as a type of error where certain elements of a given"
+  },
+  {
+    "question": "Note",
+    "answer": "dataset are weighted more heavily than others. A biased dataset will not accurately represent"
+  },
+  {
+    "question": "Note",
+    "answer": "the model\u2019s use case, and it results in low accuracy levels and analytical errors."
+  },
+  {
+    "question": "Note",
+    "answer": "27. Name The Types Of Machine Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "The types of machine learning are listed below:"
+  },
+  {
+    "question": "Note",
+    "answer": "1. Supervised Learning"
+  },
+  {
+    "question": "Note",
+    "answer": "2. Unsupervised Learning"
+  },
+  {
+    "question": "Note",
+    "answer": "3. Reinforcement Learning"
+  },
+  {
+    "question": "Note",
+    "answer": "28. Differentiate Between Classification And Regression?"
+  },
+  {
+    "question": "Note",
+    "answer": "Classification Regression"
+  },
+  {
+    "question": "Note",
+    "answer": "It is about predicting a label It is about predicting a quantity"
+  },
+  {
+    "question": "Note",
+    "answer": "Here, the data is labeled in one or multiple"
+  },
+  {
+    "question": "Note",
+    "answer": "classes."
+  },
+  {
+    "question": "Note",
+    "answer": "Here, you need to predict the quantity"
+  },
+  {
+    "question": "Note",
+    "answer": "continuously."
+  },
+  {
+    "question": "Note",
+    "answer": "It may predict a continuous value. It may predict a discrete value."
+  },
+  {
+    "question": "Note",
+    "answer": "It can be evaluated using accuracy. It can be evaluated using root mean squared"
+  },
+  {
+    "question": "Note",
+    "answer": "error."
+  },
+  {
+    "question": "Note",
+    "answer": "29. What Is A Confusion Matrix?"
+  },
+  {
+    "question": "Note",
+    "answer": "In the field of machine learning, a confusion matrix also called an error matrix, is defined as a"
+  },
+  {
+    "question": "Note",
+    "answer": "specific table layout that allows the user to visualize the performance of an algorithm, mainly a"
+  },
+  {
+    "question": "Note",
+    "answer": "supervised learning one."
+  },
+  {
+    "question": "Note",
+    "answer": "30. When Your Dataset Is Suffering From High Variance, How Would You Handle It?"
+  },
+  {
+    "question": "Note",
+    "answer": "For datasets with high variance, we can make use of the bagging algorithm. The bagging"
+  },
+  {
+    "question": "Note",
+    "answer": "algorithm splits the data into different subgroups with sampling replicated from random data."
+  },
+  {
+    "question": "Note",
+    "answer": "Once the data is split, using a training algorithm, the random data can be used to create rules."
+  },
+  {
+    "question": "Note",
+    "answer": "Then we make use of the polling technique to gather all the predicted outcomes of the model."
+  },
+  {
+    "question": "Note",
+    "answer": "31. Differentiate Between Inductive And Deductive Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "Inductive Learning Deductive Learning"
+  },
+  {
+    "question": "Note",
+    "answer": "It aims at developing a theory. It aims at testing an existing theory."
+  },
+  {
+    "question": "Note",
+    "answer": "It moves from the specific observations to the"
+  },
+  {
+    "question": "Note",
+    "answer": "broad generalizations"
+  },
+  {
+    "question": "Note",
+    "answer": "If there is no theory, you cannot conduct"
+  },
+  {
+    "question": "Note",
+    "answer": "deductive research."
+  },
+  {
+    "question": "Note",
+    "answer": "It consists of three"
+  },
+  {
+    "question": "Note",
+    "answer": "stages,ObservationObserve a"
+  },
+  {
+    "question": "Note",
+    "answer": "patternDevelop a theory"
+  },
+  {
+    "question": "Note",
+    "answer": "It consists of four stages:Start with an"
+  },
+  {
+    "question": "Note",
+    "answer": "existing theoryFormulate a hypothesis based"
+  },
+  {
+    "question": "Note",
+    "answer": "on existing theoryCollect data to test the"
+  },
+  {
+    "question": "Note",
+    "answer": "hypothesisAnalyze the results"
+  },
+  {
+    "question": "Note",
+    "answer": "32. Explain The Handling Of Corrupted Values In The Given Dataset?"
+  },
+  {
+    "question": "Note",
+    "answer": "The below are the ways to handle missing data?"
+  },
+  {
+    "question": "Note",
+    "answer": "1. Remove the rows with missing values."
+  },
+  {
+    "question": "Note",
+    "answer": "2. Build another predictive model so that you can predict the missing values."
+  },
+  {
+    "question": "Note",
+    "answer": "3. Use a model in such a way that it can incorporate missing data."
+  },
+  {
+    "question": "Note",
+    "answer": "4. You need to replace the missing data with the aggregated values."
+  },
+  {
+    "question": "Note",
+    "answer": "5. You can predict the missing values."
+  },
+  {
+    "question": "Note",
+    "answer": "6. create an unknown category"
+  },
+  {
+    "question": "Note",
+    "answer": "33. Which Among These Is More Important Model Accuracy Or Model Performance?"
+  },
+  {
+    "question": "Note",
+    "answer": "Model accuracy is considered as the important characteristic of a Machine Language /AI model."
+  },
+  {
+    "question": "Note",
+    "answer": "Whenever we discuss the performance of the model, we first clarify whether it is the model"
+  },
+  {
+    "question": "Note",
+    "answer": "scoring performance or Model training performance."
+  },
+  {
+    "question": "Note",
+    "answer": "Model performance is improved by using distributed computing and parallelizing over the given"
+  },
+  {
+    "question": "Note",
+    "answer": "scored assets, but we need to carefully build the accuracy during the model training process."
+  },
+  {
+    "question": "Note",
+    "answer": "34. What Is A Time Series?"
+  },
+  {
+    "question": "Note",
+    "answer": "The time series in Machine learning is defined as a set of random variables that are ordered"
+  },
+  {
+    "question": "Note",
+    "answer": "with respect to time. Time series are studied to interpret a phenomenon, identify the"
+  },
+  {
+    "question": "Note",
+    "answer": "components of a trend, cyclicity, and predict its future values."
+  },
+  {
+    "question": "Note",
+    "answer": "35. Differentiate Between Entropy And Information Gain?"
+  },
+  {
+    "question": "Note",
+    "answer": "The Information Gain is defined as the amount of information gained about a signal or random"
+  },
+  {
+    "question": "Note",
+    "answer": "variable from observing another random variable."
+  },
+  {
+    "question": "Note",
+    "answer": "Entropy can be defined as the average rate at which information is produced by the stochastic"
+  },
+  {
+    "question": "Note",
+    "answer": "source of data, Or it can be defined as a measure of the uncertainty that is associated with a"
+  },
+  {
+    "question": "Note",
+    "answer": "random variable."
+  },
+  {
+    "question": "Note",
+    "answer": "36. Differentiate Between Stochastic Gradient Descent (SGD) And Gradient Descent (GD)?"
+  },
+  {
+    "question": "Note",
+    "answer": "Batch Gradient Descent is involved in calculations over the full training set of each step, which"
+  },
+  {
+    "question": "Note",
+    "answer": "results in a very slow process on very large training data. Hence, it becomes very expensive to"
+  },
+  {
+    "question": "Note",
+    "answer": "do Batch GD. However, It is great for relatively smooth error manifolds. Also, it scales well with"
+  },
+  {
+    "question": "Note",
+    "answer": "the number of features."
+  },
+  {
+    "question": "Note",
+    "answer": "Stochastic Gradient Descent tries to solve the primary problem in Batch Gradient descent that is"
+  },
+  {
+    "question": "Note",
+    "answer": "the usage of entire training data to calculate the gradients as each step. SGD is stochastic in"
+  },
+  {
+    "question": "Note",
+    "answer": "nature means it picks up some \u201crandom\u201d instances of training data at each and every step, and"
+  },
+  {
+    "question": "Note",
+    "answer": "then it computes the gradient making it faster as there are very little data to manipulate at one"
+  },
+  {
+    "question": "Note",
+    "answer": "shot,"
+  },
+  {
+    "question": "Note",
+    "answer": "Batch Gradient Descent Stochastic Gradient Descent"
+  },
+  {
+    "question": "Note",
+    "answer": "It computes the gradient using the entire"
+  },
+  {
+    "question": "Note",
+    "answer": "Training sample."
+  },
+  {
+    "question": "Note",
+    "answer": "It computes gradient using a single Training"
+  },
+  {
+    "question": "Note",
+    "answer": "sample."
+  },
+  {
+    "question": "Note",
+    "answer": "It can\u2019t be suggested for huge training"
+  },
+  {
+    "question": "Note",
+    "answer": "samples."
+  },
+  {
+    "question": "Note",
+    "answer": "It can be suggested for large training"
+  },
+  {
+    "question": "Note",
+    "answer": "samples."
+  },
+  {
+    "question": "Note",
+    "answer": "It is deterministic in nature. It is sophisticated in nature."
+  },
+  {
+    "question": "Note",
+    "answer": "37. Differentiate Between Gini Impurity And Entropy In A Decision Tree?"
+  },
+  {
+    "question": "Note",
+    "answer": "Gini Entropy"
+  },
+  {
+    "question": "Note",
+    "answer": "It has values inside the interval [0, 0.5] It has values inside the interval [0, 1]"
+  },
+  {
+    "question": "Note",
+    "answer": "It is more complex. It is not complex."
+  },
+  {
+    "question": "Note",
+    "answer": "Its measurement is the probability of a"
+  },
+  {
+    "question": "Note",
+    "answer": "random sample that is being classified"
+  },
+  {
+    "question": "Note",
+    "answer": "correctly."
+  },
+  {
+    "question": "Note",
+    "answer": "It is a measurement to calculate the lack of"
+  },
+  {
+    "question": "Note",
+    "answer": "information,"
+  },
+  {
+    "question": "Note",
+    "answer": "38. Mention Some Of The Advantages And Disadvantages Of Decision Trees?"
+  },
+  {
+    "question": "Note",
+    "answer": "Advantages of the decision tree:"
+  },
+  {
+    "question": "Note",
+    "answer": "1. Decision trees require less effort for data preparation during the pre-processing when"
+  },
+  {
+    "question": "Note",
+    "answer": "compared with other algorithms."
+  },
+  {
+    "question": "Note",
+    "answer": "2. A decision tree doesn\u2019t require the normalization of data."
+  },
+  {
+    "question": "Note",
+    "answer": "3. It does not require scaling of data."
+  },
+  {
+    "question": "Note",
+    "answer": "4. Missing values in the data do not affect the process of building a decision tree."
+  },
+  {
+    "question": "Note",
+    "answer": "5. A Decision tree model is very easy to explain to technical teams and stakeholders."
+  },
+  {
+    "question": "Note",
+    "answer": "39. Can You Explain The Ensemble Learning Technique In Machine Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "Ensemble methods are the techniques used to create multiple models and combine them to"
+  },
+  {
+    "question": "Note",
+    "answer": "produce enhanced results. Ensemble methods usually produce more precise solutions than a"
+  },
+  {
+    "question": "Note",
+    "answer": "single model would."
+  },
+  {
+    "question": "Note",
+    "answer": "In Ensemble Learning, we divide the training data set into multiple subsets, where each subset"
+  },
+  {
+    "question": "Note",
+    "answer": "is then used to build a separate model. Once the models are trained, they are then combined to"
+  },
+  {
+    "question": "Note",
+    "answer": "predict an outcome in such a way that there is a reduction in the variance of the output."
+  },
+  {
+    "question": "Note",
+    "answer": "Machine Learning Interview Questions And Answers"
+  },
+  {
+    "question": "Note",
+    "answer": "40. Explain The Terms Collinearity And Multicollinearity?"
+  },
+  {
+    "question": "Note",
+    "answer": "Multicollinearity occurs when multiple independent variables are highly correlated with each"
+  },
+  {
+    "question": "Note",
+    "answer": "other in a regression model, which means that an independent variable can be predicted from"
+  },
+  {
+    "question": "Note",
+    "answer": "another independent variable inside a regression model."
+  },
+  {
+    "question": "Note",
+    "answer": "Collinearity mainly occurs when two predictor variables in a multiple regression have some"
+  },
+  {
+    "question": "Note",
+    "answer": "correlation."
+  },
+  {
+    "question": "Note",
+    "answer": "41. Differentiate Between Random Forest And Gradient Boosting Machines?"
+  },
+  {
+    "question": "Note",
+    "answer": "Like random forests, gradient boosting is also a set of decision trees. The two primary"
+  },
+  {
+    "question": "Note",
+    "answer": "differences are:"
+  },
+  {
+    "question": "Note",
+    "answer": "1. How trees are built: Each tree in the random forest is built independently, whereas"
+  },
+  {
+    "question": "Note",
+    "answer": "gradient boosting builds only one tree at a time."
+  },
+  {
+    "question": "Note",
+    "answer": "2. Combining results: random forests combine results at the end of the process by"
+  },
+  {
+    "question": "Note",
+    "answer": "averaging. Whereas gradient boosting combines results along the path."
+  },
+  {
+    "question": "Note",
+    "answer": "42. Explain The Terms Eigenvectors And Eigenvalues?"
+  },
+  {
+    "question": "Note",
+    "answer": "Eigenvectors are unit vectors, meaning their length or magnitude is equal to 1.0. They are"
+  },
+  {
+    "question": "Note",
+    "answer": "referred to as right vectors, which means a column vector."
+  },
+  {
+    "question": "Note",
+    "answer": "Eigenvalues are coefficients that are applied to eigenvectors that, in turn, give the vectors their"
+  },
+  {
+    "question": "Note",
+    "answer": "length or magnitude."
+  },
+  {
+    "question": "Note",
+    "answer": "43. Can You Explain Associative Rule Mining (ARM)?"
+  },
+  {
+    "question": "Note",
+    "answer": "Association rule mining (ARM) aims to find out the association rules that will satisfy the"
+  },
+  {
+    "question": "Note",
+    "answer": "predefined minimum support and confidence from a database. AMO is mainly used to reduce"
+  },
+  {
+    "question": "Note",
+    "answer": "the number of association rules with the new fitness functions that can incorporate frequent"
+  },
+  {
+    "question": "Note",
+    "answer": "rules."
+  },
+  {
+    "question": "Note",
+    "answer": "44. What Is A/B Testing?"
+  },
+  {
+    "question": "Note",
+    "answer": "A/B testing is defined as a basic randomized control experiment. It is used to compare two"
+  },
+  {
+    "question": "Note",
+    "answer": "versions of a variable to find out which one among them performs better in a controlled"
+  },
+  {
+    "question": "Note",
+    "answer": "environment."
+  },
+  {
+    "question": "Note",
+    "answer": "A/B Testing can be best used to compare two models to check which one is the"
+  },
+  {
+    "question": "Note",
+    "answer": "best-recommended product to a customer."
+  },
+  {
+    "question": "Note",
+    "answer": "45. Explain Marginalisation And Its Process?"
+  },
+  {
+    "question": "Note",
+    "answer": "Marginalization is a method that requires the summing of the possible values of one variable to"
+  },
+  {
+    "question": "Note",
+    "answer": "determine the marginal contribution of another variable."
+  },
+  {
+    "question": "Note",
+    "answer": "P(X=x) = \u2211YP(X=x,Y)"
+  },
+  {
+    "question": "Note",
+    "answer": "46. What Is Cluster Sampling?"
+  },
+  {
+    "question": "Note",
+    "answer": "Cluster sampling is defined as a type of sampling method. With cluster sampling, the"
+  },
+  {
+    "question": "Note",
+    "answer": "researchers usually divide the population into separate groups or sets, known as clusters. Then,"
+  },
+  {
+    "question": "Note",
+    "answer": "a random sample of clusters is picked from the population. Then the researcher conducts their"
+  },
+  {
+    "question": "Note",
+    "answer": "analysis on the data from the collected sampled clusters."
+  },
+  {
+    "question": "Note",
+    "answer": "47. Explain The Term\u201cCurse Of Dimensionality\u201d?"
+  },
+  {
+    "question": "Note",
+    "answer": "The curse of dimensionality basically refers to the increase in the error with the increase in the"
+  },
+  {
+    "question": "Note",
+    "answer": "number of features. It can be referred to the fact that algorithms are vigorous to design in high"
+  },
+  {
+    "question": "Note",
+    "answer": "dimensions, and they often have a running time exponential in the dimensions."
+  },
+  {
+    "question": "Note",
+    "answer": "48. Can You Name A Few Libraries In Python Used For Data Analysis And Scientific"
+  },
+  {
+    "question": "Note",
+    "answer": "Computations?"
+  },
+  {
+    "question": "Note",
+    "answer": "1. NumPy"
+  },
+  {
+    "question": "Note",
+    "answer": "2. SciPy"
+  },
+  {
+    "question": "Note",
+    "answer": "3. Pandas"
+  },
+  {
+    "question": "Note",
+    "answer": "4. SciKit"
+  },
+  {
+    "question": "Note",
+    "answer": "5. Matplotlib"
+  },
+  {
+    "question": "Note",
+    "answer": "6. Seaborn"
+  },
+  {
+    "question": "Note",
+    "answer": "7. Bokeh"
+  },
+  {
+    "question": "Note",
+    "answer": "49. What Are Outliers? Mention The Methods To Deal With Outliers?"
+  },
+  {
+    "question": "Note",
+    "answer": "An outlier can be defined as an object that deviates significantly from other objects. They can be"
+  },
+  {
+    "question": "Note",
+    "answer": "caused by execution errors."
+  },
+  {
+    "question": "Note",
+    "answer": "The three main methods to deal with outliers are as follows:"
+  },
+  {
+    "question": "Note",
+    "answer": "1. Univariate method"
+  },
+  {
+    "question": "Note",
+    "answer": "2. Multivariate method"
+  },
+  {
+    "question": "Note",
+    "answer": "3. Minkowski error"
+  },
+  {
+    "question": "Note",
+    "answer": "50. List Some Popular Distribution Curves Along With Scenarios Where You Will Use Them In"
+  },
+  {
+    "question": "Note",
+    "answer": "An Algorithm?"
+  },
+  {
+    "question": "Note",
+    "answer": "The most popular distribution curves are:"
+  },
+  {
+    "question": "Note",
+    "answer": "Uniform distribution can be defined as a probability distribution that has a constant probability."
+  },
+  {
+    "question": "Note",
+    "answer": "Example: Rolling a single dice since it has multiple outcomes."
+  },
+  {
+    "question": "Note",
+    "answer": "The binomial distribution is defined as a probability with two possible outcomes only. Example: a"
+  },
+  {
+    "question": "Note",
+    "answer": "coin toss. The result will either be heads or tails."
+  },
+  {
+    "question": "Note",
+    "answer": "Normal distribution specifies how the values of a variable are distributed. Example: The height"
+  },
+  {
+    "question": "Note",
+    "answer": "of students in a classroom."
+  },
+  {
+    "question": "Note",
+    "answer": "Poisson distribution helps to predict the probability of specific events that are happening when"
+  },
+  {
+    "question": "Note",
+    "answer": "you know how often that event has occurred."
+  },
+  {
+    "question": "Note",
+    "answer": "The exponential distribution is mainly concerned with the amount of time until the specific event"
+  },
+  {
+    "question": "Note",
+    "answer": "occurs. Example: how long a car battery could last, in months."
+  },
+  {
+    "question": "Note",
+    "answer": "51. Can You List The Assumptions For Data To Be Met Before Starting With Linear Regression?"
+  },
+  {
+    "question": "Note",
+    "answer": "The assumptions to be met are:"
+  },
+  {
+    "question": "Note",
+    "answer": "1. Linear relationship"
+  },
+  {
+    "question": "Note",
+    "answer": "2. Multivariate normality"
+  },
+  {
+    "question": "Note",
+    "answer": "3. No or little multicollinearity"
+  },
+  {
+    "question": "Note",
+    "answer": "4. No auto-correlation"
+  },
+  {
+    "question": "Note",
+    "answer": "5. Homoscedasticity"
+  },
+  {
+    "question": "Note",
+    "answer": "52. Explain The Term Variance Inflation Factor Mean?"
+  },
+  {
+    "question": "Note",
+    "answer": "Variance inflation factor that is VIF is defined as a measure of the amount of multicollinearity in a"
+  },
+  {
+    "question": "Note",
+    "answer": "given set of multiple regression variables."
+  },
+  {
+    "question": "Note",
+    "answer": "Mathematically, the Variance inflation factor for a regression model variable is equal to the ratio"
+  },
+  {
+    "question": "Note",
+    "answer": "of the final model variance to the variance of a model that comprises that single independent"
+  },
+  {
+    "question": "Note",
+    "answer": "variable."
+  },
+  {
+    "question": "Note",
+    "answer": "This ratio is calculated for each of the independent variables. A high VIF represents that the"
+  },
+  {
+    "question": "Note",
+    "answer": "associated independent variable is hugely collinear with the other variables in the model."
+  },
+  {
+    "question": "Note",
+    "answer": "53. Can You Tell Us When The Linear Regression Line Stops Rotating Or Finds An Optimal"
+  },
+  {
+    "question": "Note",
+    "answer": "Spot Where It Is Fitted On Data?"
+  },
+  {
+    "question": "Note",
+    "answer": "The place where the highest RSquared value is found is where the line comes to rest."
+  },
+  {
+    "question": "Note",
+    "answer": "RSquared usually represents the amount of variance that is captured by the virtual linear"
+  },
+  {
+    "question": "Note",
+    "answer": "regression line w.r.t the total variance captured by the dataset."
+  },
+  {
+    "question": "Note",
+    "answer": "54. Can You Tell Us Which Machine Learning Algorithm Is Known As The Lazy Learner And"
+  },
+  {
+    "question": "Note",
+    "answer": "Why It Is Called So?"
+  },
+  {
+    "question": "Note",
+    "answer": "KNN Machine Learning algorithm is called a lazy learner. K-NN is defined as a lazy learner"
+  },
+  {
+    "question": "Note",
+    "answer": "because it will not learn any machine-learned values or variables from the given training data,"
+  },
+  {
+    "question": "Note",
+    "answer": "but dynamically it calculates the distance every time it wants to classify. Hence it memorizes the"
+  },
+  {
+    "question": "Note",
+    "answer": "training dataset instead."
+  },
+  {
+    "question": "Note",
+    "answer": "55. Can You Tell Us What Could Be The Problem When The Beta Value For A Specific Variable"
+  },
+  {
+    "question": "Note",
+    "answer": "Varies Too Much In Each Subset When Regression Is Run On Various Subsets Of The Dataset?"
+  },
+  {
+    "question": "Note",
+    "answer": "The variations in the beta values in every subset suggest that the dataset is heterogeneous. To"
+  },
+  {
+    "question": "Note",
+    "answer": "overcome this problem, we use a different model for each of the clustered subsets of the given"
+  },
+  {
+    "question": "Note",
+    "answer": "dataset, or we use a non-parametric model like decision trees."
+  },
+  {
+    "question": "Note",
+    "answer": "56. How To Choose A Classifier Based On A Training Set Data Size?"
+  },
+  {
+    "question": "Note",
+    "answer": "If the training set is small in size, high bias or low variance models, for example, Naive Bayes"
+  },
+  {
+    "question": "Note",
+    "answer": "tends to perform better as they are less likely to overfit."
+  },
+  {
+    "question": "Note",
+    "answer": "If the training set is large in size, low bias or high variance models, for example, Logistic"
+  },
+  {
+    "question": "Note",
+    "answer": "Regression, tend to perform better as they can reflect more complicated relationships."
+  },
+  {
+    "question": "Note",
+    "answer": "57. Differentiate Between Training Set And Test Set In A Machine Learning Model?"
+  },
+  {
+    "question": "Note",
+    "answer": "Training set Test set"
+  },
+  {
+    "question": "Note",
+    "answer": "70% of the total data is taken as the training"
+  },
+  {
+    "question": "Note",
+    "answer": "dataset."
+  },
+  {
+    "question": "Note",
+    "answer": "The remaining 30% is taken as a testing"
+  },
+  {
+    "question": "Note",
+    "answer": "dataset."
+  },
+  {
+    "question": "Note",
+    "answer": "It is implemented to build up a model. It is used to validate the model built."
+  },
+  {
+    "question": "Note",
+    "answer": "It is a labeled data used to train the model."
+  },
+  {
+    "question": "Note",
+    "answer": "We usually test without labeled data and then"
+  },
+  {
+    "question": "Note",
+    "answer": "verify the results with labels."
+  },
+  {
+    "question": "Note",
+    "answer": "58. Explain A False Positive And False Negative And How Are They Significant?"
+  },
+  {
+    "question": "Note",
+    "answer": "A false positive is a concept where you receive a positive result for a given test when you"
+  },
+  {
+    "question": "Note",
+    "answer": "should have actually received a negative result. It\u2019s also called a \u201cfalse alarm\u201d or \u201cfalse positive"
+  },
+  {
+    "question": "Note",
+    "answer": "error.\u201d It is basically used in the medical field, but it can also apply to software testing."
+  },
+  {
+    "question": "Note",
+    "answer": "Examples of False positive:"
+  },
+  {
+    "question": "Note",
+    "answer": "1. A pregnancy test is positive, where in fact, you are not pregnant."
+  },
+  {
+    "question": "Note",
+    "answer": "2. A cancer screening test is positive, but you do not have the disease."
+  },
+  {
+    "question": "Note",
+    "answer": "3. Prenatal tests are positive for Down\u2019s Syndrome when your fetus does not have any"
+  },
+  {
+    "question": "Note",
+    "answer": "disorder."
+  },
+  {
+    "question": "Note",
+    "answer": "4. Virus software on your system incorrectly identifies a harmless program as the malicious"
+  },
+  {
+    "question": "Note",
+    "answer": "one."
+  },
+  {
+    "question": "Note",
+    "answer": "A false negative is defined where a negative test result is wrong. In simple words, you get a"
+  },
+  {
+    "question": "Note",
+    "answer": "negative test result, where you should have got a positive test result."
+  },
+  {
+    "question": "Note",
+    "answer": "For example, consider taking a pregnancy test, and you test as negative (not pregnant). But in"
+  },
+  {
+    "question": "Note",
+    "answer": "fact, you are pregnant."
+  },
+  {
+    "question": "Note",
+    "answer": "The false negative pregnancy test results due to taking the test too early, using the diluted urine,"
+  },
+  {
+    "question": "Note",
+    "answer": "or checking the results very soon. Just about every medical test has the risk of a false negative."
+  },
+  {
+    "question": "Note",
+    "answer": "59. Explain The Term Semi-Supervised Machine Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "Semi-supervised learning is defined as an approach to machine learning that combines a less"
+  },
+  {
+    "question": "Note",
+    "answer": "amount of labeled data with a huge amount of unlabeled data during the training process. It falls"
+  },
+  {
+    "question": "Note",
+    "answer": "between unsupervised learning and supervised learning."
+  },
+  {
+    "question": "Note",
+    "answer": "60. Can You Tell Us The Applications Of Supervised Machine Learning In Modern Businesses?"
+  },
+  {
+    "question": "Note",
+    "answer": "1. Healthcare Diagnosis"
+  },
+  {
+    "question": "Note",
+    "answer": "2. Fraud detection"
+  },
+  {
+    "question": "Note",
+    "answer": "3. Email spam detection"
+  },
+  {
+    "question": "Note",
+    "answer": "4. Sentimental analysis"
+  },
+  {
+    "question": "Note",
+    "answer": "61. Can You Differentiate Between Inductive Machine Learning And Deductive Machine"
+  },
+  {
+    "question": "Note",
+    "answer": "Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "Inductive Machine Learning Deductive Machine Learning"
+  },
+  {
+    "question": "Note",
+    "answer": "A \u22c0 B \u22a2 A \u2192 B (Induction) A \u22c0 (A \u2013>B)\u22a2 B(Deduction)"
+  },
+  {
+    "question": "Note",
+    "answer": "It observes and learns from the set of"
+  },
+  {
+    "question": "Note",
+    "answer": "instances, and then it draws the conclusion."
+  },
+  {
+    "question": "Note",
+    "answer": "It derives the conclusion first, and then it"
+  },
+  {
+    "question": "Note",
+    "answer": "works on it based on the previous decision."
+  },
+  {
+    "question": "Note",
+    "answer": "It is a Statistical machine learning like KNN or"
+  },
+  {
+    "question": "Note",
+    "answer": "SVM,"
+  },
+  {
+    "question": "Note",
+    "answer": "Machine learning algorithm to deductive"
+  },
+  {
+    "question": "Note",
+    "answer": "reasoning using the decision tree."
+  },
+  {
+    "question": "Note",
+    "answer": "62. What Is Random Forest In Machine Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "The random forest can be defined as a supervised learning algorithm that is used for"
+  },
+  {
+    "question": "Note",
+    "answer": "classifications and regression. Similarly, the random forest algorithm creates decision trees on"
+  },
+  {
+    "question": "Note",
+    "answer": "the data samples, and then it gets the prediction from each of the samples and finally selects"
+  },
+  {
+    "question": "Note",
+    "answer": "the best one by means of voting."
+  },
+  {
+    "question": "Note",
+    "answer": "63. Explain The Trade-Off Between Bias And Variance?"
+  },
+  {
+    "question": "Note",
+    "answer": "Bias can be defined as the assumptions made by the model to make the target function easy to"
+  },
+  {
+    "question": "Note",
+    "answer": "approximate."
+  },
+  {
+    "question": "Note",
+    "answer": "Variance is defined as the amount that the estimate of the target function will change given the"
+  },
+  {
+    "question": "Note",
+    "answer": "different training data."
+  },
+  {
+    "question": "Note",
+    "answer": "The trade-off is defined as the tension between the error introduced by bias and variance."
+  },
+  {
+    "question": "Note",
+    "answer": "64. Explain Pruning In Decision Trees, And How Is It Done?"
+  },
+  {
+    "question": "Note",
+    "answer": "Pruning is a data compression process in machine learning and search algorithms that can"
+  },
+  {
+    "question": "Note",
+    "answer": "reduce the size of the decision trees by removing certain sections of the tree that are non-critical"
+  },
+  {
+    "question": "Note",
+    "answer": "and unnecessary to classify instances. A tree that is too huge risks overfitting the training data"
+  },
+  {
+    "question": "Note",
+    "answer": "and is poorly generalizing to the new samples."
+  },
+  {
+    "question": "Note",
+    "answer": "Pruning can take place as follows."
+  },
+  {
+    "question": "Note",
+    "answer": "1. Top-down fashion (It will travel the nodes and trim subtrees starting at the root)"
+  },
+  {
+    "question": "Note",
+    "answer": "2. Bottom-up fashion (It will start at the leaf nodes)"
+  },
+  {
+    "question": "Note",
+    "answer": "We have reduced the error algorithm for the pruning of decision trees."
+  },
+  {
+    "question": "Note",
+    "answer": "65. How Reduced Error Algorithms Work For Pruning In Decision Trees?"
+  },
+  {
+    "question": "Note",
+    "answer": "The reduced error algorithm works as follows:"
+  },
+  {
+    "question": "Note",
+    "answer": "1. It considers each node for pruning."
+  },
+  {
+    "question": "Note",
+    "answer": "2. Pruning = removing the subtree at that node, then make it a leaf and assign the major"
+  },
+  {
+    "question": "Note",
+    "answer": "common class at that node."
+  },
+  {
+    "question": "Note",
+    "answer": "3. A node is removed from the tree if the resulting tree performs worse than the original."
+  },
+  {
+    "question": "Note",
+    "answer": "4. Nodes are removed iteratively by choosing the node in such a way that whose removal"
+  },
+  {
+    "question": "Note",
+    "answer": "mostly increases the accuracy of the decision tree on the graph."
+  },
+  {
+    "question": "Note",
+    "answer": "5. Pruning continues to perform until further pruning is harmful."
+  },
+  {
+    "question": "Note",
+    "answer": "6. It uses training, test sets, and validations. It is an effective approach if a vast amount of"
+  },
+  {
+    "question": "Note",
+    "answer": "data is available."
+  },
+  {
+    "question": "Note",
+    "answer": "66. Explain The Term Decision Tree Classification?"
+  },
+  {
+    "question": "Note",
+    "answer": "A decision tree builds classification models as a tree structure, with datasets broken up into"
+  },
+  {
+    "question": "Note",
+    "answer": "smaller subsets while developing the decision tree; basically, it is a tree-like way with branches"
+  },
+  {
+    "question": "Note",
+    "answer": "and nodes defined. Decision trees handle both categorical and numerical data."
+  },
+  {
+    "question": "Note",
+    "answer": "67. Explain Logistic Regression?"
+  },
+  {
+    "question": "Note",
+    "answer": "Logistic regression analysis is a technique used to examine the association of independent"
+  },
+  {
+    "question": "Note",
+    "answer": "variables with one dichotomous dependent variable. This is in contrast to the linear regression"
+  },
+  {
+    "question": "Note",
+    "answer": "analysis, where the dependent variable is a continuous variable."
+  },
+  {
+    "question": "Note",
+    "answer": "Every time the output of logistic regression is 0 or 1 with a threshold value of 0.5. Any value"
+  },
+  {
+    "question": "Note",
+    "answer": "above 0.5 is taken as 1, and any point below 0.5 is taken as 0."
+  },
+  {
+    "question": "Note",
+    "answer": "68. Name Some Methods Of Reducing Dimensionality?"
+  },
+  {
+    "question": "Note",
+    "answer": "Some of the methods of reducing dimensionality are given below:"
+  },
+  {
+    "question": "Note",
+    "answer": "1. By combining features with feature engineering"
+  },
+  {
+    "question": "Note",
+    "answer": "2. Removing collinear features"
+  },
+  {
+    "question": "Note",
+    "answer": "3. using algorithmic dimensionality reduction."
+  },
+  {
+    "question": "Note",
+    "answer": "69. What Is A Recommendation System?"
+  },
+  {
+    "question": "Note",
+    "answer": "Recommendation systems mainly collect the customer data and auto analyze this data to"
+  },
+  {
+    "question": "Note",
+    "answer": "generate the customized recommendations for the customers. These systems mainly rely on"
+  },
+  {
+    "question": "Note",
+    "answer": "implicit data like browsing history and recent purchases and explicit data like ratings provided by"
+  },
+  {
+    "question": "Note",
+    "answer": "the customer."
+  },
+  {
+    "question": "Note",
+    "answer": "70. Explain The K Nearest Neighbor Algorithm?"
+  },
+  {
+    "question": "Note",
+    "answer": "K-Nearest Neighbour is the simplest Machine Learning algorithm that is based on the"
+  },
+  {
+    "question": "Note",
+    "answer": "Supervised Learning technique. It assumes the similarity between the new case or data and the"
+  },
+  {
+    "question": "Note",
+    "answer": "available cases, and it puts the new case into a category that is similar to that of the available"
+  },
+  {
+    "question": "Note",
+    "answer": "categories."
+  },
+  {
+    "question": "Note",
+    "answer": "For example, we have an image of a creature that looks similar to that of a cat and a dog, but"
+  },
+  {
+    "question": "Note",
+    "answer": "we want to know whether it is a cat or a dog. For this identification, we can make use of the"
+  },
+  {
+    "question": "Note",
+    "answer": "KNN algorithm, as it works on a similarity basis. The KNN model will find the similarities of the"
+  },
+  {
+    "question": "Note",
+    "answer": "new data set to that of the cats and dogs images, and that is based on the similar features; it will"
+  },
+  {
+    "question": "Note",
+    "answer": "put it in either a cat or a dog category."
+  },
+  {
+    "question": "Note",
+    "answer": "71. Considering A Given Long List Of Machine Learning Algorithms, Given A Data Set, How Do"
+  },
+  {
+    "question": "Note",
+    "answer": "The Spam Filters Of The Email Will Be Fed With Hundreds Of Emails You Decide Which One To"
+  },
+  {
+    "question": "Note",
+    "answer": "Use?"
+  },
+  {
+    "question": "Note",
+    "answer": "Choosing an algorithm depends on the below-mentioned questions:"
+  },
+  {
+    "question": "Note",
+    "answer": "1. How much data you have, and is that continuous or categorical?"
+  },
+  {
+    "question": "Note",
+    "answer": "2. Is the problem related to classification, clustering, association, or regression?"
+  },
+  {
+    "question": "Note",
+    "answer": "3. Is it a Predefined variable (labeled), unlabeled, or a mix of both?"
+  },
+  {
+    "question": "Note",
+    "answer": "4. What is the primary purpose?"
+  },
+  {
+    "question": "Note",
+    "answer": "Based on the above questions, one has to choose the right algorithm that suits their"
+  },
+  {
+    "question": "Note",
+    "answer": "requirement."
+  },
+  {
+    "question": "Note",
+    "answer": "72. Can You Tell Us How To Design An Email Spam Filter?"
+  },
+  {
+    "question": "Note",
+    "answer": "1. The spam filter of the email will be fed with hundreds of emails."
+  },
+  {
+    "question": "Note",
+    "answer": "2. Each of these emails has a label: \u2018spam\u2019 or \u2018not spam.\u2019"
+  },
+  {
+    "question": "Note",
+    "answer": "3. The supervised machine learning algorithm will then identify which type of emails are"
+  },
+  {
+    "question": "Note",
+    "answer": "being marked as spam based on spam keywords like the lottery, no money, full refund,"
+  },
+  {
+    "question": "Note",
+    "answer": "etc."
+  },
+  {
+    "question": "Note",
+    "answer": "4. The next time an email hits the inbox, the spam filter will use statistical analysis and"
+  },
+  {
+    "question": "Note",
+    "answer": "algorithms like Decision Trees and SVM to identify how likely the email is spam."
+  },
+  {
+    "question": "Note",
+    "answer": "5. If the probability is high, then it will be labeled as spam, and the email will not hit your"
+  },
+  {
+    "question": "Note",
+    "answer": "inbox."
+  },
+  {
+    "question": "Note",
+    "answer": "6. Based on the accuracy of each of the models, we use the algorithm with the highest"
+  },
+  {
+    "question": "Note",
+    "answer": "reliability after testing all the given models."
+  },
+  {
+    "question": "Note",
+    "answer": "73. How Can You Avoid Overfitting?"
+  },
+  {
+    "question": "Note",
+    "answer": "Overfitting is avoided by following the steps:"
+  },
+  {
+    "question": "Note",
+    "answer": "1. Cross-validation: The idea here is to use the initial training data to generate various"
+  },
+  {
+    "question": "Note",
+    "answer": "small train test spills. Where these test spills are used to tune the model."
+  },
+  {
+    "question": "Note",
+    "answer": "2. Train with more data: Training with a lot of data can help the algorithms to detect the"
+  },
+  {
+    "question": "Note",
+    "answer": "signals better."
+  },
+  {
+    "question": "Note",
+    "answer": "3. Remove feature: You can manually remove some of the features."
+  },
+  {
+    "question": "Note",
+    "answer": "4. Early stopping: It refers to stopping the training process before the learner passes the"
+  },
+  {
+    "question": "Note",
+    "answer": "specified point."
+  },
+  {
+    "question": "Note",
+    "answer": "5. Regularization: It refers to a broad range of techniques for artificially forcing the model to"
+  },
+  {
+    "question": "Note",
+    "answer": "be simple."
+  },
+  {
+    "question": "Note",
+    "answer": "6. Ensembling: These are machine learning algorithms that combine predictions from"
+  },
+  {
+    "question": "Note",
+    "answer": "multiple separate models."
+  },
+  {
+    "question": "Note",
+    "answer": "74. Explain The Term Selection Bias In Machine Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "Selection bias takes place if a data set\u2019s examples are chosen in such a way that it is not"
+  },
+  {
+    "question": "Note",
+    "answer": "reflective of their real-world distribution. Selection bias can take many various forms."
+  },
+  {
+    "question": "Note",
+    "answer": "1. Coverage bias: Data here is not selected in a representative manner."
+  },
+  {
+    "question": "Note",
+    "answer": "Example: A model is trained in such a way to predict the future sales of a new product based on"
+  },
+  {
+    "question": "Note",
+    "answer": "the phone surveys conducted with the sample of customers who bought the product."
+  },
+  {
+    "question": "Note",
+    "answer": "Consumers who instead opted for buying a competing product were not surveyed, and as a"
+  },
+  {
+    "question": "Note",
+    "answer": "result, this set of people were not represented in the training data."
+  },
+  {
+    "question": "Note",
+    "answer": "2. Non-response bias: Data here ends up being unrepresentative due to the participation"
+  },
+  {
+    "question": "Note",
+    "answer": "gaps in the collection of data processes."
+  },
+  {
+    "question": "Note",
+    "answer": "Example: A model is trained in such a way to predict the future sales of a new product based"
+  },
+  {
+    "question": "Note",
+    "answer": "on the phone surveys conducted with a sample of customers who bought the product and with a"
+  },
+  {
+    "question": "Note",
+    "answer": "sample of customers who bought the competing product. Customers who bought the competing"
+  },
+  {
+    "question": "Note",
+    "answer": "product were 80% more expected to refuse to complete the survey, and their data were"
+  },
+  {
+    "question": "Note",
+    "answer": "underrepresented in the sample."
+  },
+  {
+    "question": "Note",
+    "answer": "3. Sampling bias: Here, proper randomization is not used during the data collection"
+  },
+  {
+    "question": "Note",
+    "answer": "process."
+  },
+  {
+    "question": "Note",
+    "answer": "Example: A model that is trained to predict the future sales of a new product based on the"
+  },
+  {
+    "question": "Note",
+    "answer": "phone surveys conducted with a sample of customers who bought the product and with a"
+  },
+  {
+    "question": "Note",
+    "answer": "sample of customers who bought a competing product. Instead of randomly targeting"
+  },
+  {
+    "question": "Note",
+    "answer": "customers, the surveyor chose the first 200 consumers that responded to their email, who might"
+  },
+  {
+    "question": "Note",
+    "answer": "have been more eager about the product than the average purchasers."
+  },
+  {
+    "question": "Note",
+    "answer": "75. Explain The Types Of Supervised Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "Supervised learning is of two types, namely,"
+  },
+  {
+    "question": "Note",
+    "answer": "1. Regression: It is a kind of Supervised Learning that learns from the given Labelled"
+  },
+  {
+    "question": "Note",
+    "answer": "Datasets, and then it is able to predict the continuous-valued output for the new data that"
+  },
+  {
+    "question": "Note",
+    "answer": "is given to the algorithm. It is used in cases where an output requirement is a number"
+  },
+  {
+    "question": "Note",
+    "answer": "like money or height etc. Some popular Supervised Learning algorithms are Linear"
+  },
+  {
+    "question": "Note",
+    "answer": "Regression, Logistic Regression."
+  },
+  {
+    "question": "Note",
+    "answer": "2. Classification: It is a kind of learning where the algorithm needs to be mapped to the new"
+  },
+  {
+    "question": "Note",
+    "answer": "data that is obtained from any one of the two classes that we have in the dataset. The"
+  },
+  {
+    "question": "Note",
+    "answer": "classes have to be mapped to either 1 or 0, which in real-life translates to the \u2018Yes\u2019 or"
+  },
+  {
+    "question": "Note",
+    "answer": "\u2018No.\u2019 The output will have to be either one of the classes, and it should not be a number"
+  },
+  {
+    "question": "Note",
+    "answer": "as it was in the case of Regression. Some of the most well-known algorithms are"
+  },
+  {
+    "question": "Note",
+    "answer": "Decision trees, Naive Bayes Classifier, Support vector Algorithms."
+  },
+  {
+    "question": "Note",
+    "answer": "76. What Vanishing Gradient Descent?"
+  },
+  {
+    "question": "Note",
+    "answer": "In Machine Learning, we encounter the Vanishing Gradient Problem while training the Neural"
+  },
+  {
+    "question": "Note",
+    "answer": "Networks with gradient-based methods like Back Propagation. This problem makes it hard to"
+  },
+  {
+    "question": "Note",
+    "answer": "tune and learn the parameters of the earlier layers in the given network."
+  },
+  {
+    "question": "Note",
+    "answer": "The vanishing gradients problem can be taken as one example of the unstable behavior that we"
+  },
+  {
+    "question": "Note",
+    "answer": "may encounter when training the deep neural network."
+  },
+  {
+    "question": "Note",
+    "answer": "It describes a situation where the deep multilayer feed-forward network or the recurrent neural"
+  },
+  {
+    "question": "Note",
+    "answer": "network is not able to propagate the useful gradient information from the given output end of the"
+  },
+  {
+    "question": "Note",
+    "answer": "model back to the layers close to the input end of the model."
+  },
+  {
+    "question": "Note",
+    "answer": "77. Can You Name The Proposed Methods To Overcome The Vanishing Gradient Problem?"
+  },
+  {
+    "question": "Note",
+    "answer": "The methods proposed to overcome the vanishing gradient problems are:"
+  },
+  {
+    "question": "Note",
+    "answer": "1. Multi-level hierarchy"
+  },
+  {
+    "question": "Note",
+    "answer": "2. The long short \u2013 term memory"
+  },
+  {
+    "question": "Note",
+    "answer": "3. Faster hardware"
+  },
+  {
+    "question": "Note",
+    "answer": "4. Residual neural networks (ResNets)"
+  },
+  {
+    "question": "Note",
+    "answer": "5. ReLU"
+  },
+  {
+    "question": "Note",
+    "answer": "78. Differentiate Between Data Mining And Machine Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "Data Mining Machine Learning"
+  },
+  {
+    "question": "Note",
+    "answer": "It extracts useful information from a large"
+  },
+  {
+    "question": "Note",
+    "answer": "amount of data."
+  },
+  {
+    "question": "Note",
+    "answer": "It introduces algorithms from data as well as"
+  },
+  {
+    "question": "Note",
+    "answer": "from past experience."
+  },
+  {
+    "question": "Note",
+    "answer": "It is used to understand the flow of data. It teaches the computers to learn and"
+  },
+  {
+    "question": "Note",
+    "answer": "understand from the data flow."
+  },
+  {
+    "question": "Note",
+    "answer": "It has huge databases with unstructured"
+  },
+  {
+    "question": "Note",
+    "answer": "data."
+  },
+  {
+    "question": "Note",
+    "answer": "It has existing data as well as algorithms."
+  },
+  {
+    "question": "Note",
+    "answer": "It requires human interference in it. No need for the human effort required after"
+  },
+  {
+    "question": "Note",
+    "answer": "design"
+  },
+  {
+    "question": "Note",
+    "answer": "Models are developed using data mining"
+  },
+  {
+    "question": "Note",
+    "answer": "technique"
+  },
+  {
+    "question": "Note",
+    "answer": "machine-learning algorithm can be used in"
+  },
+  {
+    "question": "Note",
+    "answer": "the decision tree, neural networks, and some"
+  },
+  {
+    "question": "Note",
+    "answer": "other parts of artificial intelligence"
+  },
+  {
+    "question": "Note",
+    "answer": "It is more of research using methods like"
+  },
+  {
+    "question": "Note",
+    "answer": "machine learning."
+  },
+  {
+    "question": "Note",
+    "answer": "It is self-learned and trains the system to do"
+  },
+  {
+    "question": "Note",
+    "answer": "intelligent tasks."
+  },
+  {
+    "question": "Note",
+    "answer": "79. Name The Different Algorithm Techniques In Machine Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "The different algorithm techniques in machines learning are listed below:"
+  },
+  {
+    "question": "Note",
+    "answer": "1. Unsupervised Learning"
+  },
+  {
+    "question": "Note",
+    "answer": "2. Semi-supervised Learning"
+  },
+  {
+    "question": "Note",
+    "answer": "3. Transduction"
+  },
+  {
+    "question": "Note",
+    "answer": "4. Reinforcement Learning"
+  },
+  {
+    "question": "Note",
+    "answer": "5. Learning to Learn"
+  },
+  {
+    "question": "Note",
+    "answer": "6. Supervised Learning"
+  },
+  {
+    "question": "Note",
+    "answer": "80. Explain The Function Of \u2018Unsupervised Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "1. It has to find clusters of the data."
+  },
+  {
+    "question": "Note",
+    "answer": "2. Find the low-dimensional representations of the data"
+  },
+  {
+    "question": "Note",
+    "answer": "3. To find interesting directions in data"
+  },
+  {
+    "question": "Note",
+    "answer": "4. To calculate interesting coordinates and correlations."
+  },
+  {
+    "question": "Note",
+    "answer": "5. Find novel observations or database cleaning."
+  },
+  {
+    "question": "Note",
+    "answer": "81. Explain The Term Classifier In Machine Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "A classifier in machine learning is defined as an algorithm that automatically categorizes the"
+  },
+  {
+    "question": "Note",
+    "answer": "data into one or more of a group of \u201cclasses.\u201d One of the common examples is an email"
+  },
+  {
+    "question": "Note",
+    "answer": "classifier that can scan the emails to filter them by the given class labels: Spam or Not Spam."
+  },
+  {
+    "question": "Note",
+    "answer": "We have five types of classification algorithms, namely,"
+  },
+  {
+    "question": "Note",
+    "answer": "1. Decision Tree"
+  },
+  {
+    "question": "Note",
+    "answer": "2. Naive Bayes Classifier"
+  },
+  {
+    "question": "Note",
+    "answer": "3. K-Nearest Neighbors"
+  },
+  {
+    "question": "Note",
+    "answer": "4. Support Vector Machines"
+  },
+  {
+    "question": "Note",
+    "answer": "5. Artificial Neural Networks"
+  },
+  {
+    "question": "Note",
+    "answer": "82. What Are Genetic Algorithms ?"
+  },
+  {
+    "question": "Note",
+    "answer": "Genetic algorithms are defined as stochastic search algorithms which can act on a population of"
+  },
+  {
+    "question": "Note",
+    "answer": "possible solutions. Genetic algorithms are mainly used in artificial intelligence to search a space"
+  },
+  {
+    "question": "Note",
+    "answer": "of potential solutions to find one who can solve the problem."
+  },
+  {
+    "question": "Note",
+    "answer": "83. Can You Name The Area Where Pattern Recognition Can Be Used?"
+  },
+  {
+    "question": "Note",
+    "answer": "1. Speech Recognition"
+  },
+  {
+    "question": "Note",
+    "answer": "2. Statistics"
+  },
+  {
+    "question": "Note",
+    "answer": "3. Informal Retrieval"
+  },
+  {
+    "question": "Note",
+    "answer": "4. Bioinformatics"
+  },
+  {
+    "question": "Note",
+    "answer": "5. Data Mining"
+  },
+  {
+    "question": "Note",
+    "answer": "6. Computer Vision"
+  },
+  {
+    "question": "Note",
+    "answer": "84. Explain The Term Perceptron In Machine Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "A Perceptron is defined as an algorithm for supervised learning of binary classifiers. This"
+  },
+  {
+    "question": "Note",
+    "answer": "algorithm enables the neurons to learn and processes the elements in the given training set one"
+  },
+  {
+    "question": "Note",
+    "answer": "at a time. There are two types of Perceptrons, namely."
+  },
+  {
+    "question": "Note",
+    "answer": "1. Single-layer"
+  },
+  {
+    "question": "Note",
+    "answer": "2. Multilayer."
+  },
+  {
+    "question": "Note",
+    "answer": "85. What Is Isotonic Regression?"
+  },
+  {
+    "question": "Note",
+    "answer": "Isotonic regression is used iteratively to fit ideal distances to protect the relative dissimilarity"
+  },
+  {
+    "question": "Note",
+    "answer": "order. Isotonic regression is also used in the probabilistic classification to balance the predicted"
+  },
+  {
+    "question": "Note",
+    "answer": "probabilities of the supervised machine learning models."
+  },
+  {
+    "question": "Note",
+    "answer": "86. What Are Bayesian Networks?"
+  },
+  {
+    "question": "Note",
+    "answer": "A Bayesian network can be defined as a probabilistic graphical model that presents a set of"
+  },
+  {
+    "question": "Note",
+    "answer": "variables and their conditional dependencies through a DAG (directed acyclic graph)."
+  },
+  {
+    "question": "Note",
+    "answer": "For example, a Bayesian network would represent the probabilistic relationships between the"
+  },
+  {
+    "question": "Note",
+    "answer": "diseases and their symptoms. Given the specific symptoms, the network can be used to"
+  },
+  {
+    "question": "Note",
+    "answer": "compute the possibilities of the presence of different diseases."
+  },
+  {
+    "question": "Note",
+    "answer": "87. Can You Explain The Two Components Of The Bayesian Logic Program?"
+  },
+  {
+    "question": "Note",
+    "answer": "The bayesian logic program mainly comprises two components."
+  },
+  {
+    "question": "Note",
+    "answer": "1. The first component is the logical one: it comprises a set of Bayesian Clauses that"
+  },
+  {
+    "question": "Note",
+    "answer": "captures the qualitative structure of the domain."
+  },
+  {
+    "question": "Note",
+    "answer": "2. The second component is quantitative: it encodes the quantitative information about the"
+  },
+  {
+    "question": "Note",
+    "answer": "domain."
+  },
+  {
+    "question": "Note",
+    "answer": "88. What Is An Incremental Learning Algorithm In An Ensemble?"
+  },
+  {
+    "question": "Note",
+    "answer": "The incremental learning method is defined as the ability of an algorithm to learn from new data"
+  },
+  {
+    "question": "Note",
+    "answer": "that is available after the classifier has already been generated from the already available"
+  },
+  {
+    "question": "Note",
+    "answer": "dataset."
+  },
+  {
+    "question": "Note",
+    "answer": "89. Name The Components Of Relational Evaluation Techniques?"
+  },
+  {
+    "question": "Note",
+    "answer": "The components of the relational evaluation technique are listed below:"
+  },
+  {
+    "question": "Note",
+    "answer": "1. Data Acquisition"
+  },
+  {
+    "question": "Note",
+    "answer": "2. Ground Truth Acquisition"
+  },
+  {
+    "question": "Note",
+    "answer": "3. Cross-Validation Technique"
+  },
+  {
+    "question": "Note",
+    "answer": "4. Query Type"
+  },
+  {
+    "question": "Note",
+    "answer": "5. Scoring Metric"
+  },
+  {
+    "question": "Note",
+    "answer": "6. Significance Test"
+  },
+  {
+    "question": "Note",
+    "answer": "90. Can You Explain The Bias-Variance Decomposition Of Classification Error In The Ensemble"
+  },
+  {
+    "question": "Note",
+    "answer": "Method?"
+  },
+  {
+    "question": "Note",
+    "answer": "The expected error of the learning algorithm can be divided into bias and variance. A bias term"
+  },
+  {
+    "question": "Note",
+    "answer": "is a measure of how closely the average classifier produced by the learning algorithm matches"
+  },
+  {
+    "question": "Note",
+    "answer": "with the target function. The variance term is a measure of how much the learning algorithm\u2019s"
+  },
+  {
+    "question": "Note",
+    "answer": "prediction fluctuates for various training sets."
+  },
+  {
+    "question": "Note",
+    "answer": "91. Name The Different Methods For Sequential Supervised Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "The different methods for sequential supervised learning are given below:"
+  },
+  {
+    "question": "Note",
+    "answer": "1. Recurrent sliding windows"
+  },
+  {
+    "question": "Note",
+    "answer": "2. Hidden Markow models"
+  },
+  {
+    "question": "Note",
+    "answer": "3. Maximum entropy Markow models"
+  },
+  {
+    "question": "Note",
+    "answer": "4. Conditional random fields"
+  },
+  {
+    "question": "Note",
+    "answer": "5. Graph transformer networks"
+  },
+  {
+    "question": "Note",
+    "answer": "6. Sliding-window methods"
+  },
+  {
+    "question": "Note",
+    "answer": "92. What Is Batch Statistical Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "A training dataset is divided into one or more batches. When all the training samples are used in"
+  },
+  {
+    "question": "Note",
+    "answer": "the creation of one batch, then that learning algorithm is known as batch gradient descent."
+  },
+  {
+    "question": "Note",
+    "answer": "When the given batch is the size of one sample, then the learning algorithm is called stochastic"
+  },
+  {
+    "question": "Note",
+    "answer": "gradient descent."
+  },
+  {
+    "question": "Note",
+    "answer": "93. Can You Name The Areas In Robotics And Information Processing Where Sequential"
+  },
+  {
+    "question": "Note",
+    "answer": "Prediction Problem Arises?"
+  },
+  {
+    "question": "Note",
+    "answer": "The areas in robotics and information processing where sequential prediction problem arises"
+  },
+  {
+    "question": "Note",
+    "answer": "are given below"
+  },
+  {
+    "question": "Note",
+    "answer": "1. Structured prediction"
+  },
+  {
+    "question": "Note",
+    "answer": "2. Model-based reinforcement learning"
+  },
+  {
+    "question": "Note",
+    "answer": "3. Imitation Learning"
+  },
+  {
+    "question": "Note",
+    "answer": "94. Name The Different Categories You Can Categorize The Sequence Learning Process?"
+  },
+  {
+    "question": "Note",
+    "answer": "The different categories where you can categorize the sequence learning process are listed"
+  },
+  {
+    "question": "Note",
+    "answer": "below:"
+  },
+  {
+    "question": "Note",
+    "answer": "1. Sequence generation"
+  },
+  {
+    "question": "Note",
+    "answer": "2. Sequence recognition"
+  },
+  {
+    "question": "Note",
+    "answer": "3. Sequential decision"
+  },
+  {
+    "question": "Note",
+    "answer": "4. Sequence prediction"
+  },
+  {
+    "question": "Note",
+    "answer": "95. What Is Sequence Prediction?"
+  },
+  {
+    "question": "Note",
+    "answer": "Sequence prediction aims to predict elements of the sequence on the basis of the preceding"
+  },
+  {
+    "question": "Note",
+    "answer": "elements."
+  },
+  {
+    "question": "Note",
+    "answer": "A prediction model is trained with the set of training sequences. On training, the model is used"
+  },
+  {
+    "question": "Note",
+    "answer": "to perform sequence predictions. A prediction comprises predicting the next items of a"
+  },
+  {
+    "question": "Note",
+    "answer": "sequence. This task has a number of applications like web page prefetching, weather"
+  },
+  {
+    "question": "Note",
+    "answer": "forecasting, consumer product recommendation, and stock market prediction."
+  },
+  {
+    "question": "Note",
+    "answer": "Examples of sequence prediction problems include:"
+  },
+  {
+    "question": "Note",
+    "answer": "1. Weather Forecasting. Given a sequence of observations about the particular weather"
+  },
+  {
+    "question": "Note",
+    "answer": "over a period of time, it predicts the expected tomorrow\u2019s weather."
+  },
+  {
+    "question": "Note",
+    "answer": "2. Stock Market Prediction. Given a sequence of movements of the security over a period"
+  },
+  {
+    "question": "Note",
+    "answer": "of time, it predicts the next movement of the security."
+  },
+  {
+    "question": "Note",
+    "answer": "3. Product Recommendation. Given a sequence of the last purchases of a customer, it"
+  },
+  {
+    "question": "Note",
+    "answer": "predicts the next purchase of a customer."
+  },
+  {
+    "question": "Note",
+    "answer": "96. Explain PAC Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "Probably approximately correct, i.e., PAC learning is defined as a theoretical framework used for"
+  },
+  {
+    "question": "Note",
+    "answer": "analyzing the generalization error of the learning algorithm in terms of its error on a given"
+  },
+  {
+    "question": "Note",
+    "answer": "training set and some measures of the complexity. The main goal here is to typically show that"
+  },
+  {
+    "question": "Note",
+    "answer": "an algorithm can achieve low generalization error with high probability."
+  },
+  {
+    "question": "Note",
+    "answer": "97. What Are PCA, KPCA, And ICA, And What Are They Used For?"
+  },
+  {
+    "question": "Note",
+    "answer": "Principal Components Analysis(PCA): It linearly transforms the original inputs into the new"
+  },
+  {
+    "question": "Note",
+    "answer": "uncorrelated features."
+  },
+  {
+    "question": "Note",
+    "answer": "Kernel-based Principal Component Analysis(KCPA): It is a nonlinear PCA developed by using"
+  },
+  {
+    "question": "Note",
+    "answer": "the kernel method."
+  },
+  {
+    "question": "Note",
+    "answer": "Independent Component Analysis(ICA): In ICA, the original inputs are linearly transformed into"
+  },
+  {
+    "question": "Note",
+    "answer": "certain features that are mutually statistically independent."
+  },
+  {
+    "question": "Note",
+    "answer": "98. Explain The Three Stages Of Building A Model In Machine Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "The three stages are:"
+  },
+  {
+    "question": "Note",
+    "answer": "1. Model Building"
+  },
+  {
+    "question": "Note",
+    "answer": "2. Model Testing"
+  },
+  {
+    "question": "Note",
+    "answer": "3. Applying the model"
+  },
+  {
+    "question": "Note",
+    "answer": "99. Explain The Term Hypothesis In ML?"
+  },
+  {
+    "question": "Note",
+    "answer": "Machine Learning, especially supervised learning, can be specified as the desire to use the"
+  },
+  {
+    "question": "Note",
+    "answer": "available data to learn a function that best maps the inputs to outputs."
+  },
+  {
+    "question": "Note",
+    "answer": "Technically, this problem is called function approximation, where we are approximating an"
+  },
+  {
+    "question": "Note",
+    "answer": "unknown target function that we assume as it exists that can best map the given inputs to"
+  },
+  {
+    "question": "Note",
+    "answer": "outputs on all possible considerations from the problem domain."
+  },
+  {
+    "question": "Note",
+    "answer": "An example of the model that approximates the target function and performs the mappings of"
+  },
+  {
+    "question": "Note",
+    "answer": "inputs to the outputs is known as the hypothesis in machine learning."
+  },
+  {
+    "question": "Note",
+    "answer": "The choice of algorithm and the configuration of the algorithm define the space of possible"
+  },
+  {
+    "question": "Note",
+    "answer": "hypotheses that the model may constitute."
+  },
+  {
+    "question": "Note",
+    "answer": "100. Explain The Terms Eepoch, Eentropy, Bbias, And Vvariance In Machine Learning?"
+  },
+  {
+    "question": "Note",
+    "answer": "Epoch is a term widely used in machine learning that indicates the number of passes of the"
+  },
+  {
+    "question": "Note",
+    "answer": "whole training dataset that the machine learning algorithm has completed. If the batch size is"
+  },
+  {
+    "question": "Note",
+    "answer": "the entire training dataset, then the number of epochs is defined as the number of iterations."
+  },
+  {
+    "question": "Note",
+    "answer": "Entropy in Machine learning can be defined as the measure of disorder or uncertainty. The main"
+  },
+  {
+    "question": "Note",
+    "answer": "goal of machine learning models and Data Scientists, in general, is to decrease uncertainty."
+  },
+  {
+    "question": "Note",
+    "answer": "Data bias is a type of error in which certain elements of a dataset are more heavily weighted"
+  },
+  {
+    "question": "Note",
+    "answer": "than others."
+  },
+  {
+    "question": "Note",
+    "answer": "Variance is defined as the amount that the estimate of the target function will change if a"
+  },
+  {
+    "question": "Note",
+    "answer": "different training data set was used. The target function is usually estimated from the training"
+  },
+  {
+    "question": "Note",
+    "answer": "data by the machine learning algorithm."
+  }
+]
