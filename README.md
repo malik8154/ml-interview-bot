@@ -88,14 +88,6 @@ streamlit run app/ui.py
 
 ---
 
-## Notes
-
-* The FAISS index (`data/index/qna.index`) and metadata are **not included** in the repository due to size. They are generated locally.
-* Works with Python 3.11+.
-* Keep your virtual environment and cache directories out of GitHub (`.gitignore` handles this).
-
----
-
 ## License
 
 MIT License © 2025 Malik  M Shahmeer Rashid
