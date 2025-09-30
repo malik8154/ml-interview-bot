@@ -1,0 +1,14 @@
+# Core libraries
+numpy
+pandas
+
+# NLP & Embeddings
+sentence-transformers
+transformers
+faiss-cpu   # use faiss-gpu if you have CUDA enabled
+
+# Web app
+streamlit
+
+# Utilities
+scikit-learn
