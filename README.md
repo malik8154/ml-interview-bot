@@ -8,11 +8,11 @@ A Python-based **Machine Learning Interview Q\&A Bot** that answers ML interview
 
 ## Features
 
-* ✅ Parse Q\&A datasets from TXT & CSV files
-* ✅ Generate embeddings with `all-MiniLM-L6-v2`
-* ✅ Build and search FAISS vector index
-* ✅ Interactive Streamlit web interface
-* ✅ Easily extendable with custom Q\&A datasets
+* Parse Q\&A datasets from TXT & CSV files
+* Generate embeddings with `all-MiniLM-L6-v2`
+* Build and search FAISS vector index
+* Interactive Streamlit web interface
+* Easily extendable with custom Q\&A datasets
 
 ---
 
